@@ -23,3 +23,5 @@ test:
 production:
   <<: *default
   database: whispering-falls-1016
+  user: blxvbyoxmlqtwj
+  password: 7Ul0wYHeu7o4LZSZxR7fIpvIox
